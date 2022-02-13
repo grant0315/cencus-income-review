@@ -1,2 +1,2 @@
-# cencus-income-review
-Visualizing cencus income data.
+# census-income-review
+Visualizing census income data.
